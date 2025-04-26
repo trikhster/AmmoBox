@@ -7,9 +7,9 @@ name = "AmmoBox"
 version = "0.1.0"
 description = "Modular parametric 3D model generator for ammunition boxes."
 authors = [
-    { name="Your Name", email="your.email@example.com" }
+    { name="Ritesh Trikha", email="teshtrikha@gmail.com" }
 ]
-license = { file = "LICENSE.txt" }
+license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
@@ -17,5 +17,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/Ammobox"
-"Documentation" = "https://github.com/yourusername/Ammobox#readme"
+"Homepage" = "https://github.com/trikshter/AmmoBox"
+"Documentation" = "https://github.com/trikshter/AmmoBox#readme"

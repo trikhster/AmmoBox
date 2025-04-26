@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 AmmoBox.egg-info/PKG-INFO
 AmmoBox.egg-info/SOURCES.txt
