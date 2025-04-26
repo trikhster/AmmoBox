@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: AmmoBox
+Version: 0.1.0
+Summary: Modular parametric 3D model generator for ammunition boxes
+Author: Your Name Here
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: Creative Commons Attribution-NonCommercial 4.0 International
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: pythonocc-core>=7.5.1

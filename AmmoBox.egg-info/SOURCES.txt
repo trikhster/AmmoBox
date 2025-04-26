@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+AmmoBox.egg-info/PKG-INFO
+AmmoBox.egg-info/SOURCES.txt
+AmmoBox.egg-info/dependency_links.txt
+AmmoBox.egg-info/requires.txt
+AmmoBox.egg-info/top_level.txt

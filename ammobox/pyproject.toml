@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AmmoBox"
+version = "0.1.0"
+description = "Modular parametric 3D model generator for ammunition boxes."
+authors = [
+    { name="Your Name", email="your.email@example.com" }
+]
+license = { file = "LICENSE.txt" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pythonocc-core>=7.5.1"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/Ammobox"
+"Documentation" = "https://github.com/yourusername/Ammobox#readme"
